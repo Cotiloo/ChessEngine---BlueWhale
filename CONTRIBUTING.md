@@ -1,2 +1,2 @@
-# Contrbuting to This Project
+# Contributing to This Project
 
