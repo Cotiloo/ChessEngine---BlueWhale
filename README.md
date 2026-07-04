@@ -1,7 +1,7 @@
 <div align="center">
 <img width="2000" height="2000" alt="BlueWhaleEngine (1)" src="https://github.com/user-attachments/assets/b67bc847-0130-4308-8c11-8ce6856e3c93" />
   <h3>BlueWhale Engine</h3>
-A Free, Open Source Chess Engine
+Free and Strong Multivariant Chess Engine
 </div>
 
 ## Overview
